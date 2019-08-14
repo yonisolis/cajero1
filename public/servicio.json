@@ -1,0 +1,7 @@
+[
+{"servicio":"telefono","minimo":1000},
+{"servicio":"luz","minimo":1500},
+{"servicio":"gas","minimo":2000}
+
+
+]
